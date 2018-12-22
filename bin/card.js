@@ -19,15 +19,16 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-    name: chalk.white.bold( "                   ERIK YUZWA" ),
-    handle: chalk.cyan( "erikyuzwa" ),
-    work: chalk.white( "Senior FullStack Developer" ),
+    name: chalk.white.bold( "                   Jim Liu" ),
+    handle: chalk.cyan( "jimcal" ),
+    work: chalk.white( "Software Engineer" ),
     workUrl: chalk.cyan( "--==--==--==--==--==--==--" ),
-    twitter: chalk.cyan( "https://twitter.com/eyuzwa" ),
-    github: chalk.cyan( "https://github.com/erikyuzwa" ),
-    linkedin: chalk.cyan( "https://linkedin.com/in/erikyuzwa" ),
-    web: chalk.cyan( "https://erikyuzwa.com" ),
-    npx: chalk.white( "npx erikyuzwa" ),
+    twitter: chalk.cyan( "https://twitter.com/jimcalliu" ),
+    github: chalk.cyan( "https://github.com/jimcal" ),
+    linkedin: chalk.cyan( "https://linkedin.com/in/jimycliu" ),
+    volunteering: chalk.cyan( "https://2018.cascadiajs.com" ),    
+    web: chalk.cyan( "https://itsj.im" ),
+    npx: chalk.white( "npx jimcal" ),
     labelWork: chalk.white.bold( "      Work:" ),
     labelWorkUrl: chalk.white.bold( "           " ),
     labelTwitter: chalk.white.bold( "   Twitter:" ),
@@ -35,9 +36,7 @@ const data = {
     labelLinkedIn: chalk.white.bold( "  LinkedIn:" ),
     labelWeb: chalk.white.bold( "       Web:" ),
     labelCard: chalk.white.bold( "      Card:" ),
-    bio: chalk.yellow( `I am a family man, doctor who geek, mmo player, software developer, 
-living in Alberta, Canada. I may at this very moment be consuming caffeine, JavaScript and Node.
-My blood type is Waffle.` )
+    bio: chalk.yellow( `Building & Thinking about primitives💭 Travel🛫 Coffee☕Football🏈Automobile🏎 he/him/his. http://itsj.im.` )
 };
 
 // Actual strings we're going to output

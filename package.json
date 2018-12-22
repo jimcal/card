@@ -1,29 +1,28 @@
 {
-  "name": "erikyuzwa",
+  "name": "jimcal",
   "version": "1.0.0",
-  "description": "ErikYuzwa calling card",
+  "description": "Card made by Jim",
   "main": "./bin/card.js",
   "bin": {
-    "erikyuzwa": "./bin/card.js"
+    "jimcal": "./bin/card.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/erikyuzwa/erikyuzwa-card.git"
+    "url": "git+https://github.com/jimcalliu/card.git"
   },
   "keywords": [
-    "Erik",
-    "Yuzwa",
-    "erikyuzwa"
+    "jimcal",
+    "jimcalliu"
   ],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/erikyuzwa/erikyuzwa-card/issues"
+    "url": "https://github.com/jimcalliu/card/issues"
   },
-  "homepage": "https://github.com/erikyuzwa/erikyuzwa-card#readme",
+  "homepage": "https://github.com/jimcalliu/card#readme",
   "dependencies": {
     "boxen": "^2.1.0",
     "chalk": "^2.4.1"
