@@ -1,6 +1,6 @@
 {
   "name": "jimcal",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Card made by Jim",
   "main": "./bin/card.js",
   "bin": {
