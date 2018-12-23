@@ -17,7 +17,7 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-	name: chalk.white.bold( "              Jim Liu" ),
+	name: chalk.white.bold( "             Jim Liu" ),
 	handle: chalk.cyan( "jimcal" ),
 	work: chalk.white( "Software Engineer @ Nordstrom" ),
 	workUrl: chalk.cyan( "--==--==--==--==--==--==--" ),
